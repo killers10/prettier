@@ -1,4 +1,4 @@
-name: Prod
+dfssname: Prod
 
 on:
   push:
